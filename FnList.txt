@@ -1,0 +1,118 @@
+fly
+flow
+jump
+tail
+wing
+
+decoupling and evolability
+
+create object (new)
+dereference object (null)
+begin (init code)
+end (closing code)
+addNew // collection
+get // collection
+set // collection
+exists // collection
+
+(how to write if conditions)
+if op()
+
+close
+add
+delete
+remove
+remove all
+set
+get
+read
+write
+
+fundamental types
+-----------------
+0 null
+1 object
+2 bit / boolean
+3 int8 / char
+4 int16
+5 int32
+6 int64
+7 int128
+8 int256
+14 reserved
+15 reserved
+16 single / float
+17 double
+18 long double
+19 reserved
+20 ascii string
+21 unicode string
+...
+
+operators
+---------
+bitwise
+32 and
+33 or
+34 not
+35 xor
+?36 set
+?37 clear
+?38 flip
+?39 get
+40 left
+41 right
+42 arith left
+43 arith right
+44
+45
+46
+47
+48 log-and
+49 log-or
+50 log-not
+51 log-xor
+
+
+< > <= >= == != && || ^^ !! & | ^ !
+
+
+
+Collections
+-----------
+5E	new
+5E	new (copy p)
+5E	new (capacity p1, growth-f p2)
+FE	delete/destructor
+7D	contains?
+C5	count get/set
+64	sync get
+20	clear
+F6	copy
+ED	remove (item)
+0E	add (item / collection)
+8F	equals
+FB	iterator
+84	hash
+8D	type
+8E	peek
+CB	trim
+A3	capacity
+83	fixed?
+FB	keys
+B4	values
+EF	item
+contains key
+contains value
+
+
+<type conversion should be automatic>
+
+great sites = 
+irommq.io
+apphb.com
+keen.io
+coveralls.io
+https://gondor.io/r/FNPYR/
+https://circleci.com/?utm_source=coveralls&utm_campaign=sponsor
+https://www.cloudmailin.com/?utm_source=coveralls&utm_medium=banner&utm_campaign=coveralls

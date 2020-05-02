@@ -1,0 +1,19 @@
+Good morning everyone.
+I am Subhajit Sahu, and i have worked on the design and implementation of heterogeneous sensor-based embedded system for flood management
+as my final year project, under the guidance of professor D. P. Acharya.
+
+The objective of this work was to design and implement a modern internet-based flood management system, that is simple, cost effective, easy to deploy and use.
+
+In the next few minutes i shall be describing about the hardware and software architecture of the system, data-flow and results and finally a pcb that was designed.
+
+We have used an ATmega328 8-bit microcontroller for the sensor module that accepts analog signals from the sensors, processes it and accordingly controls a GSM GPRS module
+for wireless data transmission.
+
+This is the implemetation of of the sensor module. 
+
+Ok, we have a ...
+
+motivation
+The monitoring  flood efficieny flood management depends on the online monitoring of different parametersa like water level ()at different sites in the river, humidity temperature, and rain fall.
+if such a system 
+indegineously developed 

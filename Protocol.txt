@@ -1,0 +1,95 @@
+[]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+-Introduce about the internet of things
+
+-What are the requirements of IoT (Why is WASP required)
+
+-What is WASP (a suite of ...)
+
+-Features of WASP (Why use WASP)?
+
+-Applications
+
+
+
+(
+Various parts/modules of WASP
+
+-Device OS
+
+-Agent Software
+
+-Packet Format
+)
+
+
+
+Object-function model
+
+-Introduction
+
+-Why use this model
+
+-Full description
+
+-Usage of this
+
+-Examples of achieving variety of tasks with this model
+
+-how object-function model works with agents
+
+-how it works with nodes
+
+all values represented in little endian
+
+
+Providing Service
+
+
+
+
+Enabling Communication
+
+
+
+
+Wireless Sensor Network
+
+
+
+
+Application Layer
+
+
+
+
+Network Layer
+
+
+
+Operating System
+
+
+
+Applications
+
+
+
+
